@@ -14,7 +14,7 @@ This project simulates a real-world Active Directory environment and demonstrate
 * **Network Type:** VirtualBox Internal Network (`LabNet`)
 * **Subnet:** `192.168.56.0/24`
 
-## 🔧 Tools Used
+## Tools Used
 
 * `nmap` — network scanner
 * `enum4linux` — SMB enumeration
