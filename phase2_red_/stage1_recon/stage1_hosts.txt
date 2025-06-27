@@ -1,0 +1,8 @@
+# Nmap 7.94SVN scan initiated Tue Jun 24 16:14:31 2025 as: nmap -sn -oN stage1_hosts.txt 192.168.56.0/24
+Nmap scan report for 192.168.56.20
+Host is up (0.0016s latency).
+Nmap scan report for 192.168.56.30
+Host is up (0.00043s latency).
+Nmap scan report for 192.168.56.101
+Host is up (0.0018s latency).
+# Nmap done at Tue Jun 24 16:14:47 2025 -- 256 IP addresses (3 hosts up) scanned in 16.02 seconds
