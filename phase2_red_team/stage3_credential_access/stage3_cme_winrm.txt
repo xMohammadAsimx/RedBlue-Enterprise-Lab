@@ -1,0 +1,3 @@
+SMB                      192.168.56.101  5985   WIN-8HQD9BBCKGH  [*] Windows Server 2022 Build 20348 (name:WIN-8HQD9BBCKGH) (domain:redblue.lab)
+HTTP                     192.168.56.101  5985   WIN-8HQD9BBCKGH  [*] http://192.168.56.101:5985/wsman
+WINRM                    192.168.56.101  5985   WIN-8HQD9BBCKGH  [+] redblue.lab\Administrator:password (Pwn3d!)

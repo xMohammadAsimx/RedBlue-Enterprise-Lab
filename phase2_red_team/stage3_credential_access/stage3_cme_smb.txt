@@ -1,0 +1,12 @@
+SMB                      192.168.56.101  445    WIN-8HQD9BBCKGH  [*] Windows Server 2022 Build 20348 x64 (name:WIN-8HQD9BBCKGH) (domain:redblue.lab) (signing:True) (SMBv1:False)
+SMB                      192.168.56.101  445    WIN-8HQD9BBCKGH  [+] redblue.lab\Administrator:Iaaadmin9090$ (Pwn3d!)
+SMB                      192.168.56.101  445    WIN-8HQD9BBCKGH  [*] Windows Server 2022 Build 20348 x64 (name:WIN-8HQD9BBCKGH) (domain:redblue.lab) (signing:True) (SMBv1:False)
+SMB                      192.168.56.101  445    WIN-8HQD9BBCKGH  [+] redblue.lab\Administrator:Iaaadmin9090$ (Pwn3d!)
+SMB                      192.168.56.101  445    WIN-8HQD9BBCKGH  [+] Enumerated shares
+SMB                      192.168.56.101  445    WIN-8HQD9BBCKGH  Share           Permissions     Remark
+SMB                      192.168.56.101  445    WIN-8HQD9BBCKGH  -----           -----------     ------
+SMB                      192.168.56.101  445    WIN-8HQD9BBCKGH  ADMIN$          READ,WRITE      Remote Admin
+SMB                      192.168.56.101  445    WIN-8HQD9BBCKGH  C$              READ,WRITE      Default share
+SMB                      192.168.56.101  445    WIN-8HQD9BBCKGH  IPC$            READ            Remote IPC
+SMB                      192.168.56.101  445    WIN-8HQD9BBCKGH  NETLOGON        READ,WRITE      Logon server share 
+SMB                      192.168.56.101  445    WIN-8HQD9BBCKGH  SYSVOL          READ            Logon server share 
