@@ -45,7 +45,8 @@ crackmapexec smb 192.168.56.101 -u Administrator -p 'password' --shares
 ```
 - Enumerates available network shares (like C$, ADMIN$, SYSVOL, NETLOGON) accessible to this user.
 
-See /RedBlue-Enterprise-Lab/phase2_red_team/stage3_credential_access/stage3_cme_smb.txt
+See [stage3_cme_smb.txt](https://github.com/xMohammadAsimx/RedBlue-Enterprise-Lab/blob/main/phase2_red_team/stage3_credential_access/stage3_cme_smb.txt)
+
 
 ### 3. WINRM Access Validation
 
