@@ -30,7 +30,8 @@ The goal was to analyze misconfigurations and identify possible privilege escala
 ```cypher
 MATCH (n:User), (m:Group {name:"DOMAIN ADMINS@REDBLUE.LAB"}), p = shortestPath((n)-[*..]->(m)) RETURN p
 ```
-See [Shortest_Path_To_Domain_admin.txt]([https://github.com/xMohammadAsimx/RedBlue-Enterprise-Lab/blob/main/phase2_red_team/stage4_bloodhound_ad_mapping/screenshot/Shortest_Path_To_Domain_admin.png])
+![Shortest Path To Domain Admin](https://github.com/xMohammadAsimx/RedBlue-Enterprise-Lab/raw/main/phase2_red_team/stage4_bloodhound_ad_mapping/screenshot/Shortest_Path_To_Domain_admin.png)
+
 
 ### 2. Kerberoastable Users
 
