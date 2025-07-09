@@ -11,8 +11,8 @@ The goal was to analyze misconfigurations and identify possible privilege escala
 
 ## Tools Used
 
-- **SharpHound.exe** – AD data collection tool (by SpecterOps)
-- **BloodHound (Docker GUI)** – Graph-based analysis of AD objects and relationships
+- **SharpHound.exe** – AD data collection tool (by SpecterOps).
+- **BloodHound (Docker GUI)** – Graph-based analysis of AD objects and relationships.
 
 ---
 
